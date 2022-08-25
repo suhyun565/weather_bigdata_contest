@@ -4,8 +4,6 @@
 
 ---
 
-<h3>Models</h3>
-
 **MODELS**
 
 1.Emsemble(lstm,gru,bilstm)
